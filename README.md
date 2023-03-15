@@ -19,6 +19,8 @@ My name is Elena and I'm a front-end developer with a never-ending thirst for kn
 - :mount_fuji: As a hiker, I approach every new project as a possibility to explore new horizons and broaden my perspective.
 - :mag_right: As a former strategist, I know the importance of asking “why” until the answer presents itself.
 
+---
+
 ### :hammer_and_wrench: Tech skills and tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -35,6 +37,8 @@ My name is Elena and I'm a front-end developer with a never-ending thirst for kn
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" **alt="figma" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="trello" **alt="trello" width="40" height="40"/>
 </div>
+
+---
 
 ### :book: Languages:
 - :us: **English**: C1;
