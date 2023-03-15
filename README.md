@@ -45,3 +45,10 @@ My name is Elena and I'm a front-end developer with a never-ending thirst for kn
 - :it: **Italian**: C1;
 - :ru: **Russian**: mother tongue,
 - :de: **German**: B1;
+
+---
+
+### :1234: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elukashova&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elukashova&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
